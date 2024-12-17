@@ -1,0 +1,5 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore CSV file (adjust this if you want to track it)
+sales.csv
